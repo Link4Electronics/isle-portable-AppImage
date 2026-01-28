@@ -7,7 +7,7 @@
 [![Latest Stable Release](https://img.shields.io/github/v/release/pkgforge-dev/isle-portable-AppImage)](https://github.com/pkgforge-dev/isle-portable-AppImage/releases/latest)
 
 <p align="center">
-  <img src="https://github.com/pkgforge-dev.png" width="128" />
+  <img src="https://github.com/isledecomp/isle-portable/blob/master/packaging/icons/isle.svg?raw" width="128" />
 </p>
 
 
